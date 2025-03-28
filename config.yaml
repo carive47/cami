@@ -1,0 +1,8 @@
+baseURL: "http://localhost:1313"
+languageCode: "es"
+title: "Mi Portafolio"
+theme: "hugo-profile"
+
+module:
+  imports:
+    - path: github.com/gurusabarish/hugo-profile
